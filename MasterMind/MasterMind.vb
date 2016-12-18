@@ -1,4 +1,4 @@
-﻿Module MasterMinde2
+﻿Module MasterMind
 
     Sub Main()
         InitializeConsole()
@@ -33,6 +33,7 @@
         Console.WriteLine()
         Console.WriteLine()
         Console.WriteLine()
+        Console.ReadLine()
 
     End Sub
 

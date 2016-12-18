@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{961057E2-38E7-4614-A130-A23047BFA451}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_13._10._08_MasterMinde2Mod.MasterMinde2</StartupObject>
+    <StartupObject>_13._10._08_MasterMinde2Mod.MasterMind</StartupObject>
     <RootNamespace>_13._10._08_MasterMinde2Mod</RootNamespace>
     <AssemblyName>13.10.08_MasterMinde2Mod</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -66,7 +66,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MasterMinde2.vb" />
+    <Compile Include="MasterMind.vb" />
     <Compile Include="Combination.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
